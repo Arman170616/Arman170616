@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+__TECH_SKILS__ = {
+  "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
+  "Dev Tools": ["Git", "Docker", "Github Action", "DVC", "VS-Code", "Linux", "Jira", "Slack",],
+  "ML/DL": [
+    "TensorFlow", "PyTorch", "Keras", "SpaCy",
+    "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
+  ],
+  "Web": ["Flask", "Django", "Requests", "HTML"],
+  "DB": ["MySQL", "SQLite", "SQLAlchemy"],
+  "Cloud": ["GCP", "AWS"],
+  "Others": ["Qt C++", "PyQt", "LaTex"],
+}
