@@ -2,18 +2,16 @@
 
 <!--
 **Arman170616/Arman170616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on DJango, ReactJS, PostgreSQL, DigitalOcan
+- 🌱 I’m currently learning ReactJS & AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```bash
 __TECH_SKILS__ = {
   "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
   "Dev Tools": ["Git", "Docker", "Github Action", "DVC", "VS-Code", "Linux", "Jira", "Slack",],
@@ -26,3 +24,6 @@ __TECH_SKILS__ = {
   "Cloud": ["GCP", "AWS"],
   "Others": ["Qt C++", "PyQt", "LaTex"],
 }
+
+```
+Happy Coding 🐈
