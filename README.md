@@ -11,8 +11,8 @@ In addition to work I like to write Technical Documentation.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DJango, ReactJS, PostgreSQL, DigitalOcan
-- 🌱 I’m currently learning NextJS & Django Rest Framework
+- 🔭 I’m currently working on Data Engineering and Automation.
+- 🌱 I’m currently learning Machine Learning Algorithms.
 
 ```bash
 __TECH_SKILS__ = {
