@@ -11,8 +11,8 @@ In addition to work I like to write Technical Documentation.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Engineering and Automation.
-- 🌱 I’m currently learning Machine Learning Algorithms.
+- 🔭 I’m currently working on Full Stack Software Engineering.
+- 🌱 I’m currently learning TypeScipt and DevOps.
 
 ```bash
 __TECH_SKILS__ = {
